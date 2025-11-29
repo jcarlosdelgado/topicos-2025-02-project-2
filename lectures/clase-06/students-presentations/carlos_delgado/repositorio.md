@@ -1,6 +1,6 @@
 # Repositorio
-
-[Repositorio al GITHUB](https://github.com/jcarlosdelgado/Social-Topicos.git)
+link al repositorio fronted y backend
+https://github.com/jcarlosdelgado/Social-Topicos.git
 
 ## Descripción breve
 
